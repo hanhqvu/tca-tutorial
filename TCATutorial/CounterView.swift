@@ -5,9 +5,15 @@
 //  Created by Hanh Vu on 2024/03/22.
 //
 
+import ComposableArchitecture
 import SwiftUI
 
-struct CounterFeature: View {
+@Reducer
+struct CounterView {
+    
+}
+
+struct CounterView: View {
     var body: some View {
         VStack {
             Image(systemName: "globe")

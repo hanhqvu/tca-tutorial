@@ -11,7 +11,7 @@ import SwiftUI
 struct TCATutorialApp: App {
     var body: some Scene {
         WindowGroup {
-            CounterFeature()
+            CounterView()
         }
     }
 }

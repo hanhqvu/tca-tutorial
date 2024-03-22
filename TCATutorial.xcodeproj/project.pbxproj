@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		C93CB5D62BADBF2A00E55287 /* TCATutorialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C93CB5D52BADBF2A00E55287 /* TCATutorialApp.swift */; };
-		C93CB5D82BADBF2A00E55287 /* CounterFeature.swift in Sources */ = {isa = PBXBuildFile; fileRef = C93CB5D72BADBF2A00E55287 /* CounterFeature.swift */; };
+		C93CB5D82BADBF2A00E55287 /* CounterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C93CB5D72BADBF2A00E55287 /* CounterView.swift */; };
 		C93CB5DA2BADBF2B00E55287 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C93CB5D92BADBF2B00E55287 /* Assets.xcassets */; };
 		C93CB5DD2BADBF2B00E55287 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C93CB5DC2BADBF2B00E55287 /* Preview Assets.xcassets */; };
 		C93CB5E52BADC00100E55287 /* ComposableArchitecture in Frameworks */ = {isa = PBXBuildFile; productRef = C93CB5E42BADC00100E55287 /* ComposableArchitecture */; };
@@ -17,7 +17,7 @@
 /* Begin PBXFileReference section */
 		C93CB5D22BADBF2A00E55287 /* TCATutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TCATutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C93CB5D52BADBF2A00E55287 /* TCATutorialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TCATutorialApp.swift; sourceTree = "<group>"; };
-		C93CB5D72BADBF2A00E55287 /* CounterFeature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterFeature.swift; sourceTree = "<group>"; };
+		C93CB5D72BADBF2A00E55287 /* CounterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterView.swift; sourceTree = "<group>"; };
 		C93CB5D92BADBF2B00E55287 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C93CB5DC2BADBF2B00E55287 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -54,7 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				C93CB5D52BADBF2A00E55287 /* TCATutorialApp.swift */,
-				C93CB5D72BADBF2A00E55287 /* CounterFeature.swift */,
+				C93CB5D72BADBF2A00E55287 /* CounterView.swift */,
 				C93CB5D92BADBF2B00E55287 /* Assets.xcassets */,
 				C93CB5DB2BADBF2B00E55287 /* Preview Content */,
 			);
@@ -145,7 +145,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C93CB5D82BADBF2A00E55287 /* CounterFeature.swift in Sources */,
+				C93CB5D82BADBF2A00E55287 /* CounterView.swift in Sources */,
 				C93CB5D62BADBF2A00E55287 /* TCATutorialApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
